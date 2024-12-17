@@ -38,3 +38,5 @@ geometries/a.out*
 ng*.html
 ng*.trace
 *.tess
+
+notebooks/.ipynb_checkpoints/*
