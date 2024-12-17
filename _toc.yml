@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Poissongleichung
+    numbered: True
+    chapters:
+      - file: notebooks/Poissongleichung.ipynb
+      - file: notebooks/Kondensator.ipynb
+
+
+  - caption: Weitere Gleichungen
+    numbered: True
+    chapters:
+      - file: notebooks/waveequation.ipynb
+      - file: notebooks/elasticity3D.ipynb
+      - file: notebooks/navierstokes.ipynb
+      - file: notebooks/coil.ipynb
+      
