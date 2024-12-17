@@ -39,4 +39,4 @@ ng*.html
 ng*.trace
 *.tess
 
-notebooks/.ipynb_checkpoints/*
+notebooks/.ipynb_checkpoints
