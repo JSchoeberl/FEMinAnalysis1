@@ -1,23 +1,24 @@
 # Eine kleine Einführung in die Finite Elemente Methode
 
-Sie können die Beispiele online betrachten
+Sie können die Beispiele
 
 * hier online betrachten
 
 * online ausführen unter
 
-  https://ngsolve.github.io/jupyterlite_ngsolve/lab/?fromURL=https://jschoeberl.github.io/ngslite-examples/_sources/pde_examples//Poissongleichung.ipynb
+  [Poisson Gleichung](https://ngsolve.github.io/jupyterlite_ngsolve/lab/?fromURL=https://jschoeberl.github.io/FEMinAnalysis1/_sources/notebooks//Poissongleichung.ipynb)
 
-  https://ngsolve.github.io/jupyterlite_ngsolve/lab/?fromURL=https://jschoeberl.github.io/FEMinAnalysis1/_sources/notebooks//Poissongleichung.ipynb
-    
+  [Kondensator](https://ngsolve.github.io/jupyterlite_ngsolve/lab/?fromURL=https://jschoeberl.github.io/FEMinAnalysis1/_sources/notebooks//Kondensator.ipynb)
+
+  weitere online Notebooks finden Sie hier: 
+  [Galerie](https://www.tuwien.at/mg/asc/cme/interaktive-galerie)
 
 * oder am eigenen Computer laufen lassen. Dazu müssen Sie Python und einige Pakete dazu installieren:
 
-      python -m pip install numpy scipy matplotlib jupyter ipyparallel scikit-build
-      python -m pip install --upgrade ngsolve webgui_jupyter_widgets
+      python3 -m pip install numpy scipy matplotlib jupyter ipyparallel scikit-build
+      python3 -m pip install --upgrade ngsolve webgui_jupyter_widgets
 
-
-
+  Dann laden Sie die Notebooks runter, und öffnen diese mit jupyter-notebook (oder vs-code)
 
 
 
